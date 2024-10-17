@@ -1,0 +1,4 @@
+node_modules
+
+#se suve el archivo .env como práctica
+.env
